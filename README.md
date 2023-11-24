@@ -7,11 +7,12 @@ Trên thực tế, hầu hết các trò chơi Visualnovels đều có thể ch�
 
 Một số công cụ trò chơi phổ biến:
 
-* [ONSPlayer](#onsplayer)
+* [ONScripter](#onscripter)
 * [Ren'py Viewer](#renpyviewer)
 * [XP3Player](#xp3player)
+* [RPG MV](#rpg-mv)
 
-ONSPlayer
+ONScripter
 ============
 **AppStore:** [ONSPlayer](https://apps.apple.com/cn/app/id1388250129)
 
@@ -55,7 +56,8 @@ Có file data.xp3 trong thư mục gốc game
 
 -----
 
-## About RPG MV
+RPG MV
+============
 **Required APP:** All kinds of support to run local server are available, use ONSPlayer as an example.
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7zl6bttj30hk0bk74p.jpg)
