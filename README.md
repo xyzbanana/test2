@@ -1,4 +1,4 @@
-[Renpy Viewer](#Renpy)
+[Renpy Viewer](#renpy)
 
 ## How to play Visualnovels on iOS
 
