@@ -1,4 +1,4 @@
-* [Installation](#gioi-thieu-ve-renpyviewer)
+* [Installation](#giới-thiệu-về-renpyviewer)
    * [Usage](#usage)
 
 ## How to play Visualnovels on iOS
