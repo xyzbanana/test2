@@ -1,4 +1,4 @@
-* [Installation](#installation)
+* [Installation](#gioi-thieu-ve-renpyviewer)
    * [Usage](#usage)
 
 ## How to play Visualnovels on iOS
@@ -26,8 +26,8 @@ Một số công cụ trò chơi phổ biến ở đây:
 Có một trong các folder 0.txt, 00.txt, nscript.dat và nscript.___ trong thư mục gốc của thư mục. Nói chung, nó cũng chứa các tập tin media nsa
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7aj1up6j316a0cugmr.jpg)
--------
-Installation
+
+Giới thiệu về RenpyViewer
 ============
 
 **AppStore:** [Renpyviewer](https://apps.apple.com/cn/app/renpyviewer/id1547796767)
