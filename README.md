@@ -1,4 +1,5 @@
-[Renpy Viewer](#renpy)
+* [Installation](#installation)
+   * [Usage](#usage)
 
 ## How to play Visualnovels on iOS
 
@@ -26,7 +27,7 @@ Có một trong các folder 0.txt, 00.txt, nscript.dat và nscript.___ trong th�
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7aj1up6j316a0cugmr.jpg)
 -------
-##Renpy
+##installation
 
 **AppStore:** [Renpyviewer](https://apps.apple.com/cn/app/renpyviewer/id1547796767)
 
