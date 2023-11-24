@@ -5,6 +5,9 @@ Trên thực tế, hầu hết các trò chơi Visualnovels đều có thể ch�
 Một số công cụ trò chơi phổ biến ở đây:
 
 * [ONSPlayer](#onsplayer)
+      * [Game](#trò-chơi-liên-quan)
+      * [Remote files](#tính-năng)
+
 * [Ren'py Viewer](#renpyviewer)
 * [XP3Player](#xp3player)
 
