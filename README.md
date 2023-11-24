@@ -1,6 +1,6 @@
 [Renpy Viewer](#Renpy)
 
-# How to play Visualnovels on iOS
+## How to play Visualnovels on iOS
 
 Cách chơi Visualnovels trên iOS
 
@@ -11,7 +11,7 @@ Một số công cụ trò chơi phổ biến ở đây:
 
 -------
 
-# Giới thiệu về ONScripter , RPG MV
+## Giới thiệu về ONScripter , RPG MV
 
 **AppStore:** [ONSPlayer](https://apps.apple.com/cn/app/id1388250129)
 **Tải Trực Tiếp:** [Download](https://apps.apple.com/cn/app/id1388250129)
@@ -26,7 +26,7 @@ Có một trong các folder 0.txt, 00.txt, nscript.dat và nscript.___ trong th�
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7aj1up6j316a0cugmr.jpg)
 -------
-#Renpy
+##Renpy
 
 **AppStore:** [Renpyviewer](https://apps.apple.com/cn/app/renpyviewer/id1547796767)
 
