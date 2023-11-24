@@ -1,4 +1,5 @@
-# Cách chơi Visualnovels trên iOS
+Cách chơi Visualnovels trên iOS
+============
 
 Trên thực tế, hầu hết các trò chơi Visualnovels đều có thể chạy trên iOS, nhưng bạn phải xác nhận bạn muốn chơi Visualnovels với công cụ trò chơi nào. Bởi vì game engine khác nhau nên phương pháp được sử dụng cũng khác nhau.
 
@@ -79,6 +80,8 @@ The usage of the above APPs are similar, the following is an example of Renpyvie
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7n2n0zbj30dw07t0sz.jpg)
 4. After the transfer is complete, open the APP on your iOS device to see the game, click to start playing
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7m1vwmsj31eu0satay.jpg)
+
+* [Đầu Trang](#cách-chơi-visualnovels-trên-ios)
 
 
 
