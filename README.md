@@ -1,4 +1,4 @@
-[Go To TOP](#Giới thiệu về ONScripter , RPG MV)
+[Go To TOP](#TOP)
 
 # How to play Visualnovels on iOS
 
