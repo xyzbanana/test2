@@ -28,6 +28,7 @@ Có một trong các folder 0.txt, 00.txt, nscript.dat và nscript.___ trong th�
 
 RenpyViewer
 ============
+Chơi game Joiplay
 
 **AppStore:** [Renpyviewer](https://apps.apple.com/cn/app/renpyviewer/id1547796767)
 
@@ -43,6 +44,8 @@ Có thư mục game và Renpy trong thư mục gốc của game
 
 XP3Player
 ============
+Chơi game Kirikiri 2 
+
 **AppStore:** [XP3Player](https://apps.apple.com/vn/app/xp3player/id1064060287?l=vi)
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7yer6djj30xy0je75m.jpg)
