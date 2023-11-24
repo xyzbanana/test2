@@ -1,20 +1,16 @@
-* [Ren'py Viewer](#renpyviewer)
-* [ONSPlayer](#onsplayer)
-* [XP3Player](#xp3player)
-
-## How to play Visualnovels on iOS
-
-Cách chơi Visualnovels trên iOS
+##Cách chơi Visualnovels trên iOS
 
 Trên thực tế, hầu hết các trò chơi Visualnovels đều có thể chạy trên iOS, nhưng bạn phải xác nhận bạn muốn chơi Visualnovels với công cụ trò chơi nào. Bởi vì game engine khác nhau nên phương pháp được sử dụng cũng khác nhau.
 
 Một số công cụ trò chơi phổ biến ở đây:
-**ONSPlayer, RenpyViewer, XP3Player**.
+
+* [ONSPlayer](#onsplayer)
+* [Ren'py Viewer](#renpyviewer)
+* [XP3Player](#xp3player)
 
 ONSPlayer
 ============
 **AppStore:** [ONSPlayer](https://apps.apple.com/cn/app/id1388250129)
-**Tải Trực Tiếp:** [Download](https://apps.apple.com/cn/app/id1388250129)
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7xgiov5j30hk0bk74p.jpg)
 
