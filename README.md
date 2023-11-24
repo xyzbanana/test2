@@ -1,4 +1,4 @@
-#Cách chơi Visualnovels trên iOS
+# Cách chơi Visualnovels trên iOS
 
 Trên thực tế, hầu hết các trò chơi Visualnovels đều có thể chạy trên iOS, nhưng bạn phải xác nhận bạn muốn chơi Visualnovels với công cụ trò chơi nào. Bởi vì game engine khác nhau nên phương pháp được sử dụng cũng khác nhau.
 
