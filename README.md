@@ -1,5 +1,6 @@
-* [Installation](#giới-thiệu-về-renpyviewer)
-   * [Usage](#usage)
+* [Ren'py Viewer](#renpyviewer)
+* [ONSPlayer](#onsplayer)
+* [XP3Player](#xp3player)
 
 ## How to play Visualnovels on iOS
 
@@ -10,10 +11,8 @@ Trên thực tế, hầu hết các trò chơi Visualnovels đều có thể ch�
 Một số công cụ trò chơi phổ biến ở đây:
 **ONSPlayer, RenpyViewer, XP3Player**.
 
--------
-
-## Giới thiệu về ONScripter , RPG MV
-
+ONSPlayer
+============
 **AppStore:** [ONSPlayer](https://apps.apple.com/cn/app/id1388250129)
 **Tải Trực Tiếp:** [Download](https://apps.apple.com/cn/app/id1388250129)
 
@@ -27,7 +26,7 @@ Có một trong các folder 0.txt, 00.txt, nscript.dat và nscript.___ trong th�
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7aj1up6j316a0cugmr.jpg)
 
-Giới thiệu về RenpyViewer
+RenpyViewer
 ============
 
 **AppStore:** [Renpyviewer](https://apps.apple.com/cn/app/renpyviewer/id1547796767)
@@ -42,9 +41,8 @@ Giới thiệu về RenpyViewer
 Có thư mục game và Renpy trong thư mục gốc của game
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7xvddyvj31bs0fo75r.jpg)
 
-------
-
-## Giới thiệu về XP3Player
+XP3Player
+============
 **AppStore:** [XP3Player](https://apps.apple.com/vn/app/xp3player/id1064060287?l=vi)
 
 ![](https://tva1.sinaimg.cn/large/008i3skNly1gze7yer6djj30xy0je75m.jpg)
